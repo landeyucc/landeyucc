@@ -1,5 +1,3 @@
-# 关于
-
 ## 基本信息
 - **Name**： Lande Yu
 - **Team**： Coldsea Team
